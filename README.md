@@ -1,2 +1,2 @@
-# crosschain-pay
-A multichain invoice app using Wormhole Settlement and Mayan Swift
+# CrossChain Pay
+A multichain invoice app powered by Wormhole Settlement and Mayan Swift.
